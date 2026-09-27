@@ -1,0 +1,8 @@
+node_modules
+uploads/*
+!uploads/.gitkeep
+src/db/*.sqlite
+src/db/*.sqlite-journal
+src/db/*.sqlite-wal
+src/db/*.sqlite-shm
+.env
